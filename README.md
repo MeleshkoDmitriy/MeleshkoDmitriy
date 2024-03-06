@@ -1,6 +1,8 @@
 ### Hi there 👋 My name is Dmitriy!
 <p>I'm Frontend React Developer :computer:</p>
 
+<a href='https://docs.google.com/document/d/1zAFl5OjQKbYHxi6nC0qBIV1XbiYje089FT2CnngGyJk/edit?usp=drive_link'><img src="https://img.shields.io/badge/click to see my CV-black?style=for-the-badge&logo=readdotcv&logoColor=White"/></a>
+
 <h3>My stack of technologies:</h3>
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -33,4 +35,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MeleshkoDmitriy&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
-<a href='https://docs.google.com/document/d/1zAFl5OjQKbYHxi6nC0qBIV1XbiYje089FT2CnngGyJk/edit?usp=drive_link'><img src="https://img.shields.io/badge/click to see CV-black?style=for-the-badge&logo=readdotcv&logoColor=White"/></a>
+
