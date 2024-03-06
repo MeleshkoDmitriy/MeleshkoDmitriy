@@ -33,4 +33,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MeleshkoDmitriy&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
-<a href='https://docs.google.com/document/d/1zAFl5OjQKbYHxi6nC0qBIV1XbiYje089FT2CnngGyJk/edit?usp=drive_link'><img src="https://img.shields.io/badge/CV-black?style=for-the-badge&logo=readdotcv&logoColor=White"/></a>
+<a href='https://docs.google.com/document/d/1zAFl5OjQKbYHxi6nC0qBIV1XbiYje089FT2CnngGyJk/edit?usp=drive_link'><img src="https://img.shields.io/badge/click to see CV-black?style=for-the-badge&logo=readdotcv&logoColor=White"/></a>
