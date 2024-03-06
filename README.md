@@ -1,5 +1,5 @@
 ### Hi there 👋 My name is Dmitriy!
-<p>I'm Frontend React Developer :computer:</p>
+### I'm Frontend React Developer :computer:
 
 <a href='https://docs.google.com/document/d/1zAFl5OjQKbYHxi6nC0qBIV1XbiYje089FT2CnngGyJk/edit?usp=drive_link'><img src="https://img.shields.io/badge/click to see my CV-black?style=for-the-badge&logo=readdotcv&logoColor=White"/></a>
 
