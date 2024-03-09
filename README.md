@@ -3,6 +3,14 @@
 
 <a href='https://docs.google.com/document/d/1zAFl5OjQKbYHxi6nC0qBIV1XbiYje089FT2CnngGyJk/edit?usp=drive_link'><img src="https://img.shields.io/badge/click to see my CV-black?style=for-the-badge&logo=readdotcv&logoColor=White"/></a>
 
+<h3>Contact me:</h3>
+<ul>
+  <li>:e-mail: <a href='https://www.google.com/intl/ru/gmail/about/' target='blank'>dimitrusmeleskausas@gmail.com</a></li>
+  <li>:globe_with_meridians: <a href='https://www.linkedin.com/in/dmitriy-meleshko-7034672b2/' target='blank'>linkedin</a></li>
+  <li>:desktop_computer: <a href='https://telegram.me/dimitrusmeleskausas' target='blank'>telegram</a></li>
+</ul>
+
+
 <h3>My stack of technologies:</h3>
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
