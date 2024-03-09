@@ -1,5 +1,5 @@
-### Hi there 👋 My name is Dmitriy!
-### I'm Frontend React Developer :computer:
+<h1 align="center">Hi 👋 My name is Dmitriy!</h1>
+<h3>I'm a Frontend Developer :computer:</h3>
 
 <a href='https://docs.google.com/document/d/1zAFl5OjQKbYHxi6nC0qBIV1XbiYje089FT2CnngGyJk/edit?usp=drive_link'><img src="https://img.shields.io/badge/click to see my CV-black?style=for-the-badge&logo=readdotcv&logoColor=White"/></a>
 
@@ -40,7 +40,7 @@
 ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 
-<h3>You always welcome to check my pet-projects</h3>
+<h3>You always welcome to check my projects</h3>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MeleshkoDmitriy&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
