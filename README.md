@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋 My name is Dmitriy!</h1>
 <h3>I'm a Frontend Developer :computer:</h3>
 
-<a href='https://docs.google.com/document/d/1zAFl5OjQKbYHxi6nC0qBIV1XbiYje089FT2CnngGyJk/edit?usp=drive_link'><img src="https://img.shields.io/badge/click to see my CV-black?style=for-the-badge&logo=readdotcv&logoColor=White"/></a>
+<h3>Info:</h3>
+<ul>
+  <li>:page_facing_up: <a href='https://docs.google.com/document/d/1zAFl5OjQKbYHxi6nC0qBIV1XbiYje089FT2CnngGyJk/edit?usp=drive_link' target='blank'>CV</a></li>
+</ul>
 
 <h3>Contact me:</h3>
 <ul>
