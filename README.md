@@ -43,7 +43,6 @@
 ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 
-<h3>You always welcome to check my projects</h3>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MeleshkoDmitriy&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
