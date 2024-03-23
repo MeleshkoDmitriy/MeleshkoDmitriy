@@ -9,8 +9,8 @@
 <h3>Contacts:</h3>
 <ul>
   <li>:e-mail: <a href='https://www.google.com/intl/ru/gmail/about/' target='blank'>dimitrusmeleskausas@gmail.com</a></li>
-  <li>:globe_with_meridians: <a href='https://www.linkedin.com/in/dmitriy-meleshko-7034672b2/' target='blank'>linkedin</a></li>
-  <li>:iphone:  <a href='https://telegram.me/dimitrusmeleskausas' target='blank'>telegram</a></li>
+  <li> :earth_africa: <a href='https://www.linkedin.com/in/dmitriy-meleshko-7034672b2/' target='blank'>linkedin</a></li>
+  <li>:globe_with_meridians: <a href='https://telegram.me/dimitrusmeleskausas' target='blank'>telegram</a></li>
 </ul>
 
 
