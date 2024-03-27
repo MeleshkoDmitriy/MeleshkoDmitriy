@@ -1,19 +1,16 @@
 <h1 align="center">Hi 👋 My name is Dmitriy!</h1>
 <h3>I'm a Frontend Developer :computer:</h3>
 
-<h3>Info:</h3>
-<ul>
-  <li>:books: <a href='https://rad-empanada-9790f3.netlify.app/' target='blank'>Portfolio</a></li>
-  <li>:page_facing_up: <a href='https://docs.google.com/document/d/1zAFl5OjQKbYHxi6nC0qBIV1XbiYje089FT2CnngGyJk/edit?usp=drive_link' target='blank'>CV</a></li>
-</ul>
+<dl>
+  <dt>Info:</dt>
+  <dd>:books: <a href='https://rad-empanada-9790f3.netlify.app/' target='blank'>Portfolio</a></dd>
+  <dd>:page_facing_up: <a href='https://docs.google.com/document/d/1zAFl5OjQKbYHxi6nC0qBIV1XbiYje089FT2CnngGyJk/edit?usp=drive_link' target='blank'>CV</a></dd>
 
-<h3>Contacts:</h3>
-<ul>
-  <li>:e-mail: <a href='https://www.google.com/intl/ru/gmail/about/' target='blank'>dimitrusmeleskausas@gmail.com</a></li>
-  <li> :earth_africa: <a href='https://www.linkedin.com/in/dmitriy-meleshko-7034672b2/' target='blank'>linkedin</a></li>
-  <li>:globe_with_meridians: <a href='https://telegram.me/dimitrusmeleskausas' target='blank'>telegram</a></li>
-</ul>
-
+  <dt>Contacts:</dt>
+  <dd>:e-mail: <a href='https://www.google.com/intl/ru/gmail/about/' target='blank'>dimitrusmeleskausas@gmail.com</a></dd>
+  <dd>:earth_africa: <a href='https://www.linkedin.com/in/dmitriy-meleshko-7034672b2/' target='blank'>linkedin</a></dd>
+  <dd>:globe_with_meridians: <a href='https://telegram.me/dimitrusmeleskausas' target='blank'>telegram</a></dd>
+</dl>
 
 <h3>My stack of technologies:</h3>
 
