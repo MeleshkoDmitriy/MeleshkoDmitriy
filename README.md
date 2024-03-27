@@ -3,6 +3,7 @@
 
 <h3>Info:</h3>
 <ul>
+  <li>:books: <a href='https://rad-empanada-9790f3.netlify.app/' target='blank'>Portfolio</a></li>
   <li>:page_facing_up: <a href='https://docs.google.com/document/d/1zAFl5OjQKbYHxi6nC0qBIV1XbiYje089FT2CnngGyJk/edit?usp=drive_link' target='blank'>CV</a></li>
 </ul>
 
