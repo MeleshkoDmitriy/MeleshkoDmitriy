@@ -10,9 +10,9 @@
   <dd>:e-mail: <a href='https://www.google.com/intl/ru/gmail/about/' target='blank'>dimitrusmeleskausas@gmail.com</a></dd>
   <dd>:earth_africa: <a href='https://www.linkedin.com/in/dmitriy-meleshko-7034672b2/' target='blank'>linkedin</a></dd>
   <dd>:globe_with_meridians: <a href='https://telegram.me/dimitrusmeleskausas' target='blank'>telegram</a></dd>
-</dl>
 
-<h3>My stack of technologies:</h3>
+  <dt>My stack of technologies:</dt>
+</dl>
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
