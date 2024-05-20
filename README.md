@@ -1,19 +1,6 @@
 <h1 align="center">Hi 👋 My name is Dmitriy!</h1>
 <h3>I'm a Frontend Developer :computer:</h3>
 
-<dl>
-  <dt>Info:</dt>
-  <dd>:books: <a href='https://rad-empanada-9790f3.netlify.app/' target='blank'>Portfolio</a></dd>
-  <dd>:page_facing_up: <a href='https://docs.google.com/document/d/1zAFl5OjQKbYHxi6nC0qBIV1XbiYje089FT2CnngGyJk/edit?usp=drive_link' target='blank'>CV</a></dd>
-
-  <dt>Contacts:</dt>
-  <dd>:e-mail: <a href='https://www.google.com/intl/ru/gmail/about/' target='blank'>dimitrusmeleskausas@gmail.com</a></dd>
-  <dd>:earth_africa: <a href='https://www.linkedin.com/in/dmitriy-meleshko-7034672b2/' target='blank'>linkedin</a></dd>
-  <dd>:globe_with_meridians: <a href='https://telegram.me/dimitrusmeleskausas' target='blank'>telegram</a></dd>
-
-  <dt>My main stack of technologies:</dt>
-</dl>
-
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -37,3 +24,11 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MeleshkoDmitriy&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 
+<dl>
+  <dt>Info:</dt>
+  <dd>:e-mail: <a href='https://www.google.com/intl/ru/gmail/about/' target='blank'>dimitrusmeleskausas@gmail.com</a></dd>
+  <dd>:earth_africa: <a href='https://www.linkedin.com/in/dmitriy-meleshko-7034672b2/' target='blank'>linkedin</a></dd>
+  <dd>:globe_with_meridians: <a href='https://telegram.me/dimitrusmeleskausas' target='blank'>telegram</a></dd>
+  <dd>:books: <a href='https://rad-empanada-9790f3.netlify.app/' target='blank'>portfolio</a></dd>
+  <dd>:page_facing_up: <a href='https://docs.google.com/document/d/1zAFl5OjQKbYHxi6nC0qBIV1XbiYje089FT2CnngGyJk/edit?usp=drive_link' target='blank'>cv</a></dd>
+</dl>
