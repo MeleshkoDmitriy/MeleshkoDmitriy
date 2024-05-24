@@ -30,5 +30,4 @@
   <dd>:earth_africa: <a href='https://www.linkedin.com/in/dmitriy-meleshko-7034672b2/' target='blank'>linkedin</a></dd>
   <dd>:globe_with_meridians: <a href='https://telegram.me/dimitrusmeleskausas' target='blank'>telegram</a></dd>
   <dd>:books: <a href='https://rad-empanada-9790f3.netlify.app/' target='blank'>portfolio</a></dd>
-  <dd>:page_facing_up: <a href='https://docs.google.com/document/d/1zAFl5OjQKbYHxi6nC0qBIV1XbiYje089FT2CnngGyJk/edit?usp=drive_link' target='blank'>cv</a></dd>
 </dl>
