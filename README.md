@@ -10,4 +10,3 @@
 <!--   <dd>:globe_with_meridians: <a href='https://telegram.me/DmitriyMeleshkoPortfolioBot/PortfolioApp' target='blank'>portfolio telegram bot</a></dd> -->
 <!--   <dd>:books: <a href='https://rad-empanada-9790f3.netlify.app/' target='blank'>portfolio</a></dd> -->
 </dl>
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
