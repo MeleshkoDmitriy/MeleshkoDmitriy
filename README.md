@@ -10,4 +10,3 @@
 <!--   <dd>:globe_with_meridians: <a href='https://telegram.me/DmitriyMeleshkoPortfolioBot/PortfolioApp' target='blank'>portfolio telegram bot</a></dd> -->
 <!--   <dd>:books: <a href='https://rad-empanada-9790f3.netlify.app/' target='blank'>portfolio</a></dd> -->
 </dl>
-https://user-images.githubusercontent.com/25181517/192107856-aa92c8b1-b615-47c3-9141-ed0d29a90239.png
