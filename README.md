@@ -4,7 +4,6 @@
 
 <dl>
   <dt>📌 Technologies:</dt>
-  <br />
   <dd>▫️ TypeScript, JavaScript</dd>
   <dd>▫️ React, Next.js, Vue.js, Node.js</dd>
   <dd>▫️ Redux Toolkit (RTK Query), Zustand, React Query (TanStack), Apollo Client, Vuex, Pinia</dd>
@@ -12,8 +11,6 @@
   <dd>▫️ Jest, Vitest, Testing Library</dd>
   <br />
   <dt>📌 Contacts:</dt>
-  <br />
   <dd>:e-mail: <a href='https://www.google.com/intl/ru/gmail/about/' target='blank'>dimitrusmeleskausas@gmail.com</a></dd>
   <dd>:earth_africa: <a href='https://telegram.me/dimitrusmeleskausas' target='blank'>telegram</a></dd>
-  <br />
 </dl>
