@@ -5,8 +5,8 @@
 <dl>
   <dt>📌 Technologies:</dt>
   <dd>▫️ TypeScript, JavaScript</dd>
-  <dd>▫️ React, Next.js, Vue.js, Node.js</dd>
-  <dd>▫️ Redux Toolkit (+RTKQ), Zustand, React Query, Apollo Client, Vuex, Pinia</dd>
+  <dd>▫️ React, React Native, Next.js, Vue.js, Node.js</dd>
+  <dd>▫️ Redux Toolkit (+RTKQ), Zustand, React-Query, Apollo Client, Pinia</dd>
   <dd>▫️ CSS-modules, Sass, SCSS, Less, Stylus, CSS-in-JS</dd>
   <dd>▫️ Jest, Vitest, Testing Library</dd>
   <br />
