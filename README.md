@@ -5,10 +5,7 @@
 <dl>
   <dt>📌 Technologies:</dt>
   <dd>▫️ TypeScript, JavaScript</dd>
-  <dd>▫️ React, React Native, Next.js, Vue.js, Node.js</dd>
-  <dd>▫️ Redux Toolkit (+RTKQ), Zustand, React-Query, Apollo Client, Pinia</dd>
-  <dd>▫️ CSS-modules, Sass, SCSS, Less, Stylus, CSS-in-JS</dd>
-  <dd>▫️ Jest, Vitest, Testing Library</dd>
+  <dd>▫️ React, React Native, Expo, Next.js, Node.js</dd>
   <br />
   <dt>📌 Contacts:</dt>
   <dd>:e-mail: <a href='https://www.google.com/intl/ru/gmail/about/' target='blank'>dimitrusmeleskausas@gmail.com</a></dd>
