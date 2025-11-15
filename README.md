@@ -7,7 +7,7 @@
   <dd>▫️ TypeScript, JavaScript</dd>
   <dd>▫️ React, Next.js</dd>
   <dd>▫️ React Native, Expo</dd>
-  <dd>▫️ Node.js, Express.js, Nest.js</dd>
+  <dd>▫️ Node.js, Express, Nest.js</dd>
   <br />
   <dt>📌 Contacts:</dt>
   <dd>:e-mail: <a href='https://www.google.com/intl/ru/gmail/about/' target='blank'>dimitrusmeleskausas@gmail.com</a></dd>
