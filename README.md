@@ -1,7 +1,3 @@
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MeleshkoDmitriy&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-
 <dl>
   <dt>📌 Technologies:</dt>
   <dd>▫️ TypeScript, JavaScript</dd>
